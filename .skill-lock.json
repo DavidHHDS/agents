@@ -1,0 +1,76 @@
+{
+  "version": 3,
+  "skills": {
+    "plantuml-syntax": {
+      "source": "melodic-software/claude-code-plugins",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/melodic-software/claude-code-plugins.git",
+      "skillPath": "plugins/visualization/skills/plantuml-syntax/SKILL.md",
+      "skillFolderHash": "068ef3d5aadf3ee97577a24dc79444382425243e",
+      "installedAt": "2026-03-15T22:46:33.451Z",
+      "updatedAt": "2026-03-15T22:46:33.451Z"
+    },
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/skills.git",
+      "skillPath": "skills/find-skills/SKILL.md",
+      "skillFolderHash": "3013fdeb8a11b10b1eb795ec3ae8bfca38f7c26d",
+      "installedAt": "2026-03-15T22:46:41.753Z",
+      "updatedAt": "2026-03-15T22:46:41.753Z"
+    },
+    "svelte5-best-practices": {
+      "source": "ejirocodes/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/ejirocodes/agent-skills.git",
+      "skillPath": "svelte/skills/svelte5-best-practices/SKILL.md",
+      "skillFolderHash": "69304f192cd45efd037309a513058d9bf94f0d1f",
+      "installedAt": "2026-03-23T21:58:21.424Z",
+      "updatedAt": "2026-03-23T21:58:21.424Z"
+    },
+    "frontend-design": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/skills.git",
+      "skillPath": "skills/frontend-design/SKILL.md",
+      "skillFolderHash": "928950704df8a8b885c03de5da626331e6f29cf8",
+      "pluginName": "example-skills",
+      "installedAt": "2026-03-23T21:59:00.456Z",
+      "updatedAt": "2026-03-23T21:59:00.456Z"
+    },
+    "typescript-expert": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/sickn33/antigravity-awesome-skills.git",
+      "skillPath": "skills/typescript-expert/SKILL.md",
+      "skillFolderHash": "9f0a1ee8bea92a4010b2181b45299b9a3b9404c1",
+      "installedAt": "2026-03-23T22:00:13.932Z",
+      "updatedAt": "2026-03-23T22:00:13.932Z"
+    },
+    "tailwind-design-system": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/frontend-mobile-development/skills/tailwind-design-system/SKILL.md",
+      "skillFolderHash": "0dc67032a28f3a4a60c6c8b766e2b089df26bcb3",
+      "installedAt": "2026-03-23T22:01:06.586Z",
+      "updatedAt": "2026-03-23T22:01:06.586Z"
+    }
+  },
+  "dismissed": {
+    "findSkillsPrompt": true
+  },
+  "lastSelectedAgents": [
+    "amp",
+    "antigravity",
+    "cline",
+    "codex",
+    "cursor",
+    "deepagents",
+    "gemini-cli",
+    "github-copilot",
+    "kimi-cli",
+    "opencode",
+    "warp"
+  ]
+}

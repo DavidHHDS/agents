@@ -1,0 +1,18 @@
+' Base reutilizable para diagramas PlantUML legibles en SVG.
+skinparam packageStyle rectangle
+skinparam classAttributeIconSize 0
+skinparam shadowing false
+skinparam linetype ortho
+skinparam ranksep 110
+skinparam nodesep 90
+skinparam Padding 10
+skinparam PackagePadding 12
+skinparam NoteTextAlignment left
+
+skinparam NoteBackgroundColor #FFF7D6
+skinparam NoteBorderColor #B7791F
+skinparam PackageBackgroundColor #F8FAFC
+skinparam PackageBorderColor #64748B
+skinparam ClassBackgroundColor #FFFFFF
+skinparam ClassBorderColor #334155
+skinparam ArrowColor #475569
